@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: development_social_application
+  username: 
+  password: 
+
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: test_social_application
+  username: 
+  password: 
